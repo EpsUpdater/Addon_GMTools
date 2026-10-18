@@ -1,0 +1,18 @@
+## Interface: 90005
+## Title: GMTools
+## Author: Norte
+## Notes: Herramientas útiles para el rol. Creado por norte.m2
+## Version: 1.0
+## SavedVariables: GMToolsDialoguesDB, GMToolsDialoguesFontScale, GMToolsSkyboxOrden, GMToolsAnimFavoritos
+## SavedVariablesPerCharacter: GMToolsMecanicoDB
+# Files
+GMTools.lua
+Tool-Dialogues.lua
+Tool-Gobs.lua
+Tool-NPC.lua
+Tools-Invis.lua
+Tool-Skyboxs.lua
+Tool-Weather.lua
+Tool-Control-Auras.lua
+Tool-AnimViewer.lua
+Tool-Scale.lua
